@@ -1,0 +1,276 @@
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\hp\Desktop\Project\Code\WebApplication1\WebApplication1\obj\Debug\Mailbox_Master.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\obj\Debug\Mailbox_Master.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\hp\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\obj\Debug\Mailbox_Master.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\hp\Desktop\project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\obj\Debug\Mailbox_Master.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\hp\Desktop\pro\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\ \pro\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+F:\ \pro\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+F:\ \pro\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ \pro\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ \pro\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ \pro\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ \pro\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ \pro\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ \pro\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+F:\ \pro\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+F:\ \pro\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+F:\ \pro\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+F:\ \pro\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+F:\ \pro\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+F:\ \pro\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\ \pro\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\ \pro\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+F:\ \pro\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+F:\ \pro\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\ \pro\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\ \pro\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+F:\ \pro\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+F:\ \pro\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+F:\ \pro\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ \pro\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+F:\ \pro\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+F:\ \pro\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+F:\ \pro\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+F:\ \pro\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+F:\ \pro\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+F:\ \pro\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+F:\ \pro\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+F:\ \pro\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\ \pro\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+F:\ \pro\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+F:\ \pro\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+F:\ \pro\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ \pro\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+F:\ \pro\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+F:\ \pro\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+F:\ \pro\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+F:\ \pro\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+F:\ \pro\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+F:\ \pro\WebApplication1\WebApplication1\obj\Debug\Mailbox_Master.csprojResolveAssemblyReference.cache
+F:\ \pro\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+F:\ \pro\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\WebApplication1.dll
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\obj\Debug\Mailbox_Master.csprojResolveAssemblyReference.cache
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+F:\L&T Infotech\Project\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

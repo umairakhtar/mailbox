@@ -1,0 +1,115 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication1.Site1" %>
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+   
+     <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+            height: 550px;
+          
+        }
+        .auto-style6 {
+            width:20px;
+            height: 100%;
+        }
+        .auto-style8 {
+            height: 72px;
+            width: 389px;
+        }
+  
+          .auto-style9 {
+            height: 512px;
+        }
+  
+          .auto-style11 {
+            height: auto;
+        }
+  
+          </style>
+</head>
+<body>
+    
+
+    <form id="form1" runat="server">
+    <div>
+            
+      
+    </div>
+        
+        <table class="auto-style1" style="background-image: url('/home.jpg');">
+            <tr>
+                <td class="auto-style11"  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <asp:Image ID="Image1" runat="server" Height="119px" ImageUrl="~/Logo.png" Width="136px" />
+                </td>
+               <td class="auto-style8" style="font-family: 'Lucida Console'; font-size: x-large; font-weight: bold; font-style: normal; color: #0000FF; text-decoration: blink" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MAILBOX<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </td>
+                
+            </tr>
+            
+        
+            <tr >
+                <td class="auto-style6" rowspan="3" >
+                    <asp:Button ID="Compose" runat="server" Text="Compose" Width="133px" Height="50px" OnClick="Compose_Click" />
+                    <br />
+                    <asp:Button ID="Inbox" runat="server" Text="Inbox" Width="133px" Height="50px" OnClick="Inbox_Click" />
+                     <br />
+                    
+                    <asp:Button ID="Sent" runat="server" Text="Sent" Width="133px" Height="50px" OnClick="Sent_Click"  />
+                    <br />
+                    <asp:Button ID="Drafts" runat="server" Text="Drafts" Width="133px" Height="50px" OnClick="Drafts_Click" />
+                    <br />
+                    
+                    
+                    <asp:Button ID="Trash" runat="server" Text="Trash" Width="133px" Height="50px" OnClick="Trash_Click" />
+                    <br />
+                    
+                    
+                    
+                    
+                    <asp:Button ID="Spam" runat="server" Width="133px" Height="50px" Text="Spam" OnClick="Spam_Click" />
+                    <br />
+                    
+                    
+                    
+                    
+                    <asp:Button ID="Button1" runat="server" Text="LOGOUT" align="right" BackColor="Red" Height="33px" OnClick="Button1_Click" Width="133px" />
+                    
+                    
+                    
+                    
+                </td>
+                
+                
+                <td class="auto-style9">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        
+                    </asp:ContentPlaceHolder>
+                &nbsp;&nbsp;
+                </td>
+                
+            </tr>
+            
+        
+            <tr >
+                
+                
+                <td class="auto-style9">
+                    &nbsp;</td>
+                
+            </tr>
+            
+        </table>
+            
+      
+    </form>
+</body>
+</html>
